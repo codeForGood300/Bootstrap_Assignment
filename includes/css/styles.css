@@ -1,0 +1,97 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+body {
+   background-color: black;
+}
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+#pp {
+   color: #d9534f;
+}
+
+#searchInput {
+ width: 200px;
+}
+
+#gly {
+   color:white;
+}
+
+#fid {
+   margin-right:50px; 
+}
+   
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+.carousel-inner {
+   margin-top: 62px;
+}
+
+
+
+
+.col-sm-5 {
+   margin-top: 20px;
+}
+
+.btn {
+   background-color: #d9534f;
+}
+
+#col1,#col2,#col3 {
+   color : white;
+}
+
+.col-sm-2,.col-sm-4 {
+   color: white;
+}
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+footer {
+ margin-top: 10px;
+}
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+	
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	
+}
